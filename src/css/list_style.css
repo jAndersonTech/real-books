@@ -1,0 +1,8 @@
+.book-list {
+	text-align: center;
+	margin: 0;
+}
+
+.book-list li:hover {
+	background-color: #eee;
+}

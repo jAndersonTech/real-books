@@ -1,0 +1,12 @@
+body {
+	padding: 10px 20px;
+}
+
+.app {
+	position: relative;
+	display: flex;
+	justify-content: space-around;
+	margin: 50px auto;
+	width: 98%;
+	max-width: 800px;
+}
